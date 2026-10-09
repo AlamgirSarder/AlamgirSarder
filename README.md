@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:142B66,100:7928CA&text=ALAMGIR%20SARDER&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58&animation=fadeIn&stroke=6B7CFF&strokeWidth=1" width="100%" alt="Alamgir Sarder — Full Stack Developer" />
 
 <a href="https://github.com/AlamgirSarder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8B9DFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;React+%7C+TypeScript+%7C+JavaScript;Learning%2C+Building%2C+Improving+Every+Day" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=8B9DFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;React+%7C+JavaScript+%7C+TypeScript;Learning%2C+Building%2C+Improving+Every+Day" alt="Animated introduction" />
 </a>
 
 <br/>
